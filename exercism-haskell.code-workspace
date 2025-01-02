@@ -11,6 +11,10 @@
     {
       "name": "Leap",
       "path": "exercism/haskell/leap"
+    },
+    {
+      "name": "Reverse String",
+      "path": "exercism/haskell/reverse-string"
     }
   ],
   "settings": {
