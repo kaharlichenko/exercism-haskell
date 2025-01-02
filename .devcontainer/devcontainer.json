@@ -16,6 +16,7 @@
       "cabalVersion": "3.14.1.0"
     }
   },
+  "postCreateCommand": "exercism configure -w /workspaces/exercism-haskell/exercism",
   "customizations": {
     "vscode": {
       "extensions": [
