@@ -7,6 +7,10 @@
     {
       "name": "Hello World",
       "path": "exercism/haskell/hello-world"
+    },
+    {
+      "name": "Leap",
+      "path": "exercism/haskell/leap"
     }
   ],
   "settings": {
