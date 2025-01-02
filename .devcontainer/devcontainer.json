@@ -15,5 +15,12 @@
       "ghcVersion": "9.12.1",
       "cabalVersion": "3.14.1.0"
     }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "haskell.haskell"
+      ]
+    }
   }
 }
