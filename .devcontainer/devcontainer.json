@@ -1,0 +1,19 @@
+{
+  "name": "Exercism: Haskell",
+  "image": "mcr.microsoft.com/devcontainers/base:1.1-ubuntu24.04",
+  "containerEnv": {
+    "HOME": "/home/vscode"
+  },
+  "features": {
+    "ghcr.io/devcontainers-extra/features/apt-packages:1": {
+      "packages": "libgmp-dev,libtinfo-dev"
+    },
+    "ghcr.io/devcontainers-extra/features/exercism-cli:1": {
+      "version": "3.5.4"
+    },
+    "ghcr.io/devcontainers-extra/features/haskell:2": {
+      "ghcVersion": "9.12.1",
+      "cabalVersion": "3.14.1.0"
+    }
+  }
+}
