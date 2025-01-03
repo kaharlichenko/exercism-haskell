@@ -19,6 +19,10 @@
     {
       "name": "Darts",
       "path": "exercism/haskell/darts"
+    },
+    {
+      "name": "Space Age",
+      "path": "exercism/haskell/space-age"
     }
   ],
   "settings": {
