@@ -15,6 +15,10 @@
     {
       "name": "Reverse String",
       "path": "exercism/haskell/reverse-string"
+    },
+    {
+      "name": "Darts",
+      "path": "exercism/haskell/darts"
     }
   ],
   "settings": {
