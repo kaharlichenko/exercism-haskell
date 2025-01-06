@@ -35,6 +35,10 @@
     {
       "name": "Collatz Conjecture",
       "path": "exercism/haskell/collatz-conjecture"
+    },
+    {
+      "name": "RNA Transcription",
+      "path": "exercism/haskell/rna-transcription"
     }
   ],
   "settings": {
