@@ -39,6 +39,10 @@
     {
       "name": "RNA Transcription",
       "path": "exercism/haskell/rna-transcription"
+    },
+    {
+      "name": "Nucleotide Count",
+      "path": "exercism/haskell/nucleotide-count"
     }
   ],
   "settings": {
