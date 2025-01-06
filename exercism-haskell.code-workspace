@@ -23,6 +23,10 @@
     {
       "name": "Space Age",
       "path": "exercism/haskell/space-age"
+    },
+    {
+      "name": "Pangram",
+      "path": "exercism/haskell/pangram"
     }
   ],
   "settings": {
