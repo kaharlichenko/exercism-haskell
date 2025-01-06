@@ -31,6 +31,10 @@
     {
       "name": "Bob",
       "path": "exercism/haskell/bob"
+    },
+    {
+      "name": "Collatz Conjecture",
+      "path": "exercism/haskell/collatz-conjecture"
     }
   ],
   "settings": {
