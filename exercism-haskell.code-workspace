@@ -43,6 +43,10 @@
     {
       "name": "Nucleotide Count",
       "path": "exercism/haskell/nucleotide-count"
+    },
+    {
+      "name": "Sum of Multiples",
+      "path": "exercism/haskell/sum-of-multiples"
     }
   ],
   "settings": {
